@@ -46,6 +46,6 @@ chmod +x randwordgen.py
 python3 randwordgen.py
 ```
 
-Your wordlist is in *output* directory 
+Your wordlist is in **output** directory 
 
 **Thanks for use my program**
